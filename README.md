@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boostyc
 - 👀 I’m interested in the Linux OS
-- 🌱 I’m currently learning more about Rancher and home automation
+- 🌱 I’m currently learning more about Salt and configuration management and automation
 
 
 <!---
